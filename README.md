@@ -147,15 +147,3 @@ catalogo/
 
 ---
 
-## 6. Notas para el vídeo de entrega
-
-Guion sugerido (5–10 min):
-
-1. Qué es la aplicación y qué tablas tiene la base de datos.
-2. Recorrido como **invitado**: catálogo, búsqueda, ordenación, paginación y
-   ficha de detalle.
-3. **Login** y explicación de las sesiones.
-4. **CRUD** de productos (incluida la subida de imagen) y de fabricantes.
-5. Repaso del **código y la estructura de carpetas** (este README ayuda).
-6. Mención de la **seguridad**: consultas preparadas, hash de contraseñas y
-   escape de la salida.
